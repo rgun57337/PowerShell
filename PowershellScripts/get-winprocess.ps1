@@ -1,1 +1,1 @@
-get-process
+get-process | select name
